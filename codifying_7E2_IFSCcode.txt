@@ -1,0 +1,10 @@
+Delhi, AK0002018
+Mumbai, AK0002019
+Kolkata, AK0002020
+Bangalore, AK0002021
+Chennai, AK0002022
+Hyderabad, AK0002023
+Trivandrum, AK0002024
+Gandhinagar, AK0002025
+Panaji, AK0002026
+Pune, AK0002027

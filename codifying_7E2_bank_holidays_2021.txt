@@ -1,0 +1,49 @@
+January 09,Saturday,Second Saturday
+January 9,Saturday,Second Saturday
+January 23,Saturday,Fourth Saturday
+January 26,Tuesday,Republic Day/Gaan-Ngai
+February 13,Saturday,Second Saturday
+February 27,Saturday,Fourth Saturday
+March 11,Thursday,Mahashivratri (Maha Vad-13)
+March 13,Saturday,Second Saturday
+March 27,Saturday,Fourth Saturday
+April 01,Thursday,Banks Closing of Accounts
+April 1,Thursday,Banks Closing of Accounts
+April 02,Friday,Good Friday
+April 2,Friday,Good Friday
+April 10,Saturday,Second Saturday
+April 14,Wednesday,Dr. Babasaheb Ambedkar Jayanti/Tamil New Years Day/Vishu/Biju Festival/Cheiraoba/Bohag Bihu
+April 24,Saturday,Fourth Saturday
+May 01,Saturday,Maharashtra Din/May Day (Labour Day)
+May 08,Saturday,Second Saturday
+May 1,Saturday,Maharashtra Din/May Day (Labour Day)
+May 8,Saturday,Second Saturday
+May 13,Thursday,Ramzan-Id (Id-Ul-Fitr) (Shawal-1)
+May 22,Saturday,Fourth Saturday
+June 12,Saturday,Second Saturday
+June 26,Saturday,Fourth Saturday
+July 10,Saturday,Second Saturday
+July 20,Tuesday,Bakrid
+July 24,Saturday,Fourth Saturday
+August 14,Saturday,Second Saturday
+August 20,Friday,Muharram/First Onam
+August 21,Saturday,Thiruvonam
+August 23,Monday,Sree Narayana Guru Jayanthi
+August 28,Saturday,Fourth Saturday
+September 11,Saturday,Second Saturday
+September 21,Tuesday,Sree Narayana Guru Samadhi Day
+September 25,Saturday,Fourth Saturday
+October 2,Saturday,Mahatma Gandhi Jayanti
+October 9,Saturday,Second Saturday
+October 02,Saturday,Mahatma Gandhi Jayanti
+October 09,Saturday,Second Saturday
+October 14,Thursday,Durga Puja/Dussehra (Maha Navami)/Ayutha Pooja
+October 15,Friday,Durga Puja/Dasara/Dusshera (Vijaya Dashmi)
+October 19,Tuesday,Id-E-Milad/Eid-e-Miladunnabi/Milad-i-Sherif (Prophet Mohammads Birthday)/Baravafat
+October 23,Saturday,Fourth Saturday
+November 04,Thursday,Diwali Amavasaya (Laxmi Pujan)/Deepavali/Kali Puja
+November 4,Thursday,Diwali Amavasaya (Laxmi Pujan)/Deepavali/Kali Puja
+November 13,Saturday,Second Saturday
+November 27,Saturday,Fourth Saturday
+December 11,Saturday,Second Saturday
+December 25,Saturday,Christmas
